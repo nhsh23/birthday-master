@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+http://github.com/nhsh23/birthday/.git"
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
+  "author": "Neha Sharma",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "http:/github.com/nhsh23/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "http::/github.com/nhsh23birthday/#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
